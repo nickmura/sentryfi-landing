@@ -5,7 +5,7 @@
 <main class="flex flex-col p-10 w-screen h-screen pt-40 items-center gap-5 font-serif">
 	<div class=''>
 		<img src='./sentryfinance.png' class='' alt='SentryFi'>
-
+		<h1 class='sr-only'>SentryFi SentryFinance</h1>
 		
 	</div>
 	<div class='pt-2 w-[499px] text-center'>
