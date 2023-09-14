@@ -9,9 +9,8 @@
 		
 	</div>
 	<div class='pt-2 w-[499px] text-center'>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-		Sed velit ante, rhoncus id lobortis vel, feugiat vitae nibh. 
-		In venenatis rutrum sem et hendrerit. 
+		We specialize in developing cryptocurrency custody and security solutions to institutions and enterprises. We also offer
+		consultancy in our domain. 
 	</div>
 
 	<div class='p'>
